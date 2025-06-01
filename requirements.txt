@@ -1,0 +1,6 @@
+flask
+langchain-community
+openai
+langchain-core
+langchain-azure-ai
+langchain-openai
